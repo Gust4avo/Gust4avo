@@ -1,16 +1,14 @@
-<div>
-  
+<div>  
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/gustavoferreiradasilva/">Gustavo Ferreira 😃️</a>
   </h1>
-  
-</div>
+  </div>
 
 <div align="center">
-  <a href="https://github.com/Gust4avo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gust4avo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4avo&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gust4avo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4avo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center" valign="top"><br>
