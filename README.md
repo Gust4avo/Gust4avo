@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Chubby+Cheeks&weight=900&size=30&pause=1010&color=7100F7&background=9F00FF00&center=true&multiline=true&width=435&lines=SEJAM+BEM-VINDOS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Chubby+Cheeks&weight=900&size=30&pause=1010&color=007BFF&background=9F00FF00&center=true&multiline=true&width=500&lines=Olá,+eu+sou+o+Gustavo+👨‍💻" alt="Typing SVG" />
+</a>
+
 </a>
 
 <br>
