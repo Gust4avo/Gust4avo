@@ -8,11 +8,11 @@
 
 <strong>💻 Estudante de Análise e Desenvolvimento de Sistemas - FATEC Jundiaí</strong>
 <br>
-<strong>📊 Estudante focado em Engenharia de Dados | Início de carreira na área de tecnologia</strong>
+<strong>📊 Engenharia de Dados </strong>
 <br>
 <strong>🎓 Formação complementar em Desenvolvimento Web com Java - Senac</strong>
 <br>
-<strong>🐍 Estudando Python com foco em dados, automações e ETL</strong>
+<strong>🐍 Python com foco em dados, automações e ETL</strong>
 <br>
 <strong>📚 Sempre aprendendo algo novo e prático</strong>
 <br>
