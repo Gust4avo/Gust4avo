@@ -36,6 +36,12 @@ Redes sociais:
 </div>
 
 <br>
+<div>
+  <a href="mailto:gustavofdasilva56@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
 
 Ferramentas e Tecnologias:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
