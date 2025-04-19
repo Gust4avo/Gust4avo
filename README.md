@@ -32,10 +32,10 @@ Redes sociais:
 <div>
   <a href="https://www.linkedin.com/in/gustavoferreiradasilva/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-      <a href="gustavofdasilva56@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  </a>   
+      <a href="mailto:gustavofdasilva56@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+</a>
+</a>   
 </div>
 
 
