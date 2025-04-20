@@ -16,6 +16,8 @@
 <br>
 <strong>📚 Sempre aprendendo algo novo e prático</strong>
 <br>
+<strong>🚀 Em constante evolução</strong>
+<br>
 <strong> 📬 Gustavofdasilva56@gmail.com </strong>
 
 
